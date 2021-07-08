@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AACA,WACI,eAAgB,CAChB,eACJ,CACA,OACI,WACJ,CACA,aACI,eACJ","file":"main.a1cd6531.chunk.css","sourcesContent":["\n.container {\n    margin-top: 20px;\n    padding-top: 5px;\n}\nbutton {\n    margin:15px ;\n}\n.singleColor {\n    min-height: 20vh;\n}"]}
